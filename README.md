@@ -3,7 +3,7 @@
 Generate **stunning AI images** just by writing a prompt!  
 This project uses the [A4F API](https://a4f.co) to create AI-generated visuals and automatically download them into your local `images/` folder.
 
-🔗 **Repo**: [KirtanUgreja/Image-gen-using-api](https://github.com/KirtanUgreja/Image-gen-using-api)
+
 
 ---
 
@@ -21,7 +21,7 @@ This project uses the [A4F API](https://a4f.co) to create AI-generated visuals a
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/KirtanUgreja/Image-gen-using-api.git
+git clone https://github.com/KirtanUgreja/Free-image-gen.git
 cd Image-gen-using-api
 ```
 
